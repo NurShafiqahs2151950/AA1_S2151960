@@ -1,6 +1,5 @@
 # AA1_S2151960
 DESCRIPTION OF CASE STUDY:
-A clear and concise description of the case study, including its objectives, the role of SAS e-Miner, Talend Data Integration, and Talend Data Prep in the project.
 The "E-commerce Customer Behavior and Purchase Dataset" is a synthetic dataset generated using the Faker Python library. It simulates a comprehensive e-commerce environment, capturing various aspects of customer behavior and purchase history within a digital marketplace. This dataset has been designed for data analysis and predictive modeling in the field of e-commerce. It is suitable for tasks such as customer churn prediction, market basket analysis, recommendation systems, and trend analysis.
 OBJECTIVES : 
 - To determine whether the customer will come back to purchasing or not
