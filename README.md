@@ -24,7 +24,7 @@ Talend Data Prep (Data Cleaning)
 
 
 
-Talend Data Integration
+Talend Data Integration (COMBINE AND INTEGRATE ANALYSIS)
 - connect two tables (ecommerce_customer_data_DIRTY Preparation_final.csv and ecommerce_customer_data_add on city Preparation_final.csv). ecommerce_customer_data_add on city Preparation_final.csv table are same as ecommerce_customer_data_DIRTY Preparation_final.csv accept the "City"
 - match the both table by using Customer_ID as the primary key
 - new column is added into the new column named as Churn_Category that potray the churn analysis (1= Customer won't come back, 0= Customer will come back)
