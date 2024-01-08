@@ -41,7 +41,7 @@ Talend Data Integration (COMBINE AND INTEGRATE ANALYSIS)
 
 
 
-SAS Enterprise Miner
+SAS Enterprise Miner (DECISION TREE)
 - The variables is custom accordingly by set The Chrun as the target value
 - Library is created and the data source is generated.
 ![image](https://github.com/NurShafiqahs2151950/AA1_S2151960/assets/102545710/c5f83fab-b72b-403e-b34d-45caff511769)
