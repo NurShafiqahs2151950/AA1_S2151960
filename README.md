@@ -31,6 +31,8 @@ Talend Data Integration
 ![image](https://github.com/NurShafiqahs2151950/AA1_S2151960/assets/102545710/77852976-8354-4ff4-b044-897f14253117)
 
 
+
+
 SAS Enterprise Miner
 - The variables is custom accordingly by set The Chrun as the target value
 - Library is created and the data source is generated.
