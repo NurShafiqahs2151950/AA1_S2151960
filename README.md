@@ -12,9 +12,17 @@ Talend Data Prep (Data Cleaning)
 - Act ad preparation stage
 - The raw data excel being uploaded into Talend Data Prep
 - The data cleaning start with replace the inconsistent data with the respective values CC = Credit Card. This to ensure there gonna be standardize payment method on those column.
+  ![image](https://github.com/NurShafiqahs2151950/AA1_S2151960/assets/102545710/292dbdcd-d1fa-4447-804e-f2fc956ac33d)
+
 - Invalid values are removed from the customer ID. Also, the rows from the blank customerID column are removed.
+![image](https://github.com/NurShafiqahs2151950/AA1_S2151960/assets/102545710/985dc0a6-9248-4428-b585-3657a810da5c)
+
 - Empty cells on Returns are also removed from the rows.
+![image](https://github.com/NurShafiqahs2151950/AA1_S2151960/assets/102545710/c943d041-57f2-4943-b938-f9c8141671b5)
+
 - Adjust the Date Purchased by removing the clock and remain the format as DD/MM/YYYY. This helps to avoid using exact data without a clock.
+![image](https://github.com/NurShafiqahs2151950/AA1_S2151960/assets/102545710/243660b4-78b9-4395-b446-7ca67fa6c3e7)
+
 - ![image](https://github.com/NurShafiqahs2151950/AA1_S2151960/assets/102545710/8697f319-a7ba-44bd-ab4a-2b5858f99877)
 
 
